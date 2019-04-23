@@ -16,6 +16,10 @@ function happyHolidaysTo(name) {
 
 // let happyHolidayTo = (holiday, name) => `Happy ${holiday}, ${name}!`;
 
-let holidayCountdown = (days, holiday) => `It's ${days} days until ${holiday}`;
+function happyHolidayTo(holiday, name) {
+  return `Happy ${holiday}, ${name}!`
+}
+
+// let holidayCountdown = (days, holiday) => `It's ${days} days until ${holiday}`;
 
 happyHolidays();
