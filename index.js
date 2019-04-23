@@ -22,7 +22,7 @@ function happyHolidayTo(holiday, name) {
 
 // let holidayCountdown = (days, holiday) => `It's ${days} days until ${holiday}`;
 
-function happyHolidayCountdown(days, holiday) {
+function holidayCountdown(days, holiday) {
   return `It's ${days} days until ${holiday}`
 }
 
