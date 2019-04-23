@@ -1,6 +1,8 @@
 // write your code below!
 
-let happyHolidays = () => "Happy holidays!";
+let happyHolidays = () => {
+  return "Happy holidays!";
+}
 
 let happyHolidaysTo = name => `Happy holidays, ${name}!`;
 
