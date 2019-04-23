@@ -4,7 +4,7 @@
 //   return "Happy holidays!";
 // }
 
-function happyHolidays() {
+let function happyHolidays() {
   return "Happy holidays!";
 }
 
